@@ -1,0 +1,3 @@
+INDEX VERSION 1.126+/home/marylin/workspace/SmartShopper/.metadata/.plugins/org.eclipse.jdt.core
+182560933.index
+3386353961.index
